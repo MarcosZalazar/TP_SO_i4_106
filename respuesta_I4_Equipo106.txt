@@ -6,3 +6,19 @@ A- Azul
 B- Amarillo
 C- Azul
 D- El de BETA
+
+
+Pregunta:
+E- ¿Algún integrante tuvo problemas al hacer el push?
+Beta y Gamma
+F- ¿Qué problemas surgieron?
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+Faltaba hacer pull para tener la ultima version antes de hacer push
+-----
+H- ¿Qué sucede si cada uno utiliza el push -f?
+push -f es un push forzado, en este ejercicio si Beta y Gamma hacian push -f , haciendo caso omiso del warning para hacer un pull previo, se pisarían los cambios en el repositorio
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+Hacer un merge de testing a desarrollo
+------
